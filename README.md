@@ -5,7 +5,7 @@ A repository for coding practice in various programming languages. This reposito
 ## Contents
 
 - **Programming Languages:**
-  - [Language 1 (e.g., C)](https://github.com/Kalidude69/practice-programs/tree/master/C-learning)
+  - [Language 1 (e.g., C)](https://github.com/Kalidude69/practice-programs/tree/master/C)
   - [Language 2 (e.g., Python)](later)
   - [Language 3 (e.g., Rust)](later)
 
